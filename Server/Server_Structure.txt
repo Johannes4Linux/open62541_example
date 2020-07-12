@@ -1,0 +1,9 @@
+namespace 2: Room1
++-- Temperature Sensor
+|+---- Vendor Name
+|+---- Serial Number
+|+---- Temperature
++-- Light Bulb
+|+---- Vendor Name
+|+---- Serial Number
+|+---- State (ON/OFF)
